@@ -173,7 +173,7 @@ def handle_message(message):
     bot.reply_to(message, "Халал \nАмидирлі пектин Е-440b")
 
   elif message.text == "450a" or message.text == "450b" or message.text == "450c":
-    bot.reply_to(message, "Халал \nКалий және натрийдің фосфаты және полифосфаты Е-450a")
+    bot.reply_to(message, "Халал \nКалий және натрийдің фосфаты және полифосфаты Е-450")
 
   elif message.text == "460":
     bot.reply_to(message, "Халал \nЦеллюлоза Е-460")
