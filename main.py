@@ -10,7 +10,7 @@ def greet(message):
 @bot.message_handler(content_types=['text'])
 def handle_message(message):
   if message.text == "120":
-    bot.reply_to(message, "asdasdasdasdХарам \nКармин Е-120")
+    bot.reply_to(message, "Харам \nКармин Е-120")
   elif message.text == "150":
     bot.reply_to(message, "Халал \nҚантты колер Е-150")
   elif message.text == "160b":
