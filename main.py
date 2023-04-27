@@ -375,8 +375,308 @@ def handle_message(message):
 
   elif message.text == "927":
     bot.reply_to(message, "Халал \nАзодикарбонамид Е-927")
-  
+    
+  elif message.text == "107":
+    bot.reply_to(message, "Күмәнді \nЖелтый Е-107")
+    
+  elif message.text == "133":
+    bot.reply_to(message, "Күмәнді \nБриллиантовый голубой Е-133")
+    
+  elif message.text == "154":
+    bot.reply_to(message, "Күмәнді \nКоричневый FK Е-154")
+    
+  elif message.text == "495":
+    bot.reply_to(message, "Күмәнді \nСорбитан монопальмитат Е-495")
+    
+  elif message.text == "920":
+    bot.reply_to(message, "Күмәнді \nL-цистеина гидрохлорид Е-920")
+    
+  elif message.text == "100":
+    bot.reply_to(message, "Күмәнді \nКуркумин, турмерик Е-100")
+    
+  elif message.text == "101":
+    bot.reply_to(message, "Күмәнді \nРибофлавин (витамин B2) Е-101")
+    
+  elif message.text == "102":
+    bot.reply_to(message, "Күмәнді \nТартразин Е-102")
+    
+  elif message.text == "104":
+    bot.reply_to(message, "Күмәнді \nЖелтый хинолиновый Е-104")
+    
+  elif message.text == "110":
+    bot.reply_to(message, "Күмәнді \nЖёлтый «солнечный закат» Е-110")
+    
+  elif message.text == "122":
+    bot.reply_to(message, "Күмәнді \nКармазин Е-122")
+    
+  elif message.text == "123":
+    bot.reply_to(message, "Күмәнді \nАмарант Е-123")
+    
+  elif message.text == "124":
+    bot.reply_to(message, "Күмәнді \nПонсо 4R Е-124")
+    
+  elif message.text == "127":
+    bot.reply_to(message, "Күмәнді \nЭритрозин Е-127")
+    
+  elif message.text == "128":
+    bot.reply_to(message, "Күмәнді \nКрасный 2G Е-128")
+    
+  elif message.text == "131":
+    bot.reply_to(message, "Күмәнді \nПантенттелген көк V Е-131")
+    
+  elif message.text == "132":
+    bot.reply_to(message, "Күмәнді \nИндигокармин Е-132")
+    
+  elif message.text == "140":
+    bot.reply_to(message, "Күмәнді \nХлорофилл Е-140")
+    
+  elif message.text == "141":
+    bot.reply_to(message, "Күмәнді \nХлорофилдің мысты кешені Е-141")
+    
+  elif message.text == "142":
+    bot.reply_to(message, "Күмәнді \nЖасыл S Е-142")
+    
+  elif message.text == "151":
+    bot.reply_to(message, "Күмәнді \nБриллиантты BN Е-151")
+    
+  elif message.text == "153":
+    bot.reply_to(message, "Күмәнді \nКөмір қара Е-153")
+    
+  elif message.text == "160a":
+    bot.reply_to(message, "Күмәнді \nАльфа-, бета-, гамма- каротиндер Е-160a")
+    
+  elif message.text == "160c":
+    bot.reply_to(message, "Күмәнді \nКапсантин, капсорубин Е-160c")
+    
+  elif message.text == "160d":
+    bot.reply_to(message, "Күмәнді \nЛикопин Е-160d")
+    
+  elif message.text == "160e":
+    bot.reply_to(message, "Күмәнді \nБета-апо-8-каротинді альдегид Е-160e")
+    
+  elif message.text == "160f":
+    bot.reply_to(message, "Күмәнді \nЭтильді эфир бета-апо-8-каротинді қышқыл Е-160f")
+    
+  elif message.text == "161a":
+    bot.reply_to(message, "Күмәнді \nФлавоксантин Е-161a")
+    
+  elif message.text == "161b":
+    bot.reply_to(message, "Күмәнді \nЛютеин Е-161b")
+    
+  elif message.text == "161c":
+    bot.reply_to(message, "Күмәнді \nКриптоксантин Е-161c")
+    
+  elif message.text == "161d":
+    bot.reply_to(message, "Күмәнді \nРубиксантин Е-161d")
+    
+  elif message.text == "161e":
+    bot.reply_to(message, "Күмәнді \nВиолоксантин Е-161e")
+    
+  elif message.text == "161f":
+    bot.reply_to(message, "Күмәнді \nРодоксантин Е-161f")
+    
+  elif message.text == "161g":
+    bot.reply_to(message, "Күмәнді \nКантаксантин Е-161g")
+    
+  elif message.text == "162":
+    bot.reply_to(message, "Күмәнді \nҚызылшалы қызыл(бетанин) Е-162")
+    
+  elif message.text == "163":
+    bot.reply_to(message, "Күмәнді \nАнтоциандар Е-163")
+    
+  elif message.text == "170":
+    bot.reply_to(message, "Күмәнді \nКарбонат кальциі Е-170")
+    
+  elif message.text == "180":
+    bot.reply_to(message, "Күмәнді \nРубинді литол BK Е-180")
+    
+  elif message.text == "213":
+    bot.reply_to(message, "Күмәнді \nБензоат кальциі Е-213")
+    
+  elif message.text == "214":
+    bot.reply_to(message, "Күмәнді \nЭтилпарабен Е-214")
+    
+  elif message.text == "215":
+    bot.reply_to(message, "Күмәнді \nПара-гидроксибензил қышқылды этил эфирінің натри тұзы Е-215")
+    
+  elif message.text == "216":
+    bot.reply_to(message, "Күмәнді \nПропилпарабен Е-216")
+    
+  elif message.text == "217":
+    bot.reply_to(message, "Күмәнді \nПара-гидроксибензил қышқылды пропил эфирінің натри тұзы Е-217")
+    
+  elif message.text == "218":
+    bot.reply_to(message, "Күмәнді \nМетилпарабен Е-218")
+    
+  elif message.text == "219":
+    bot.reply_to(message, "Күмәнді \nПара-гидроксибензойной кислоты метилового эфира натриевая соль Е-219")
+    
+  elif message.text == "227":
+    bot.reply_to(message, "Күмәнді \nГидросульфит кальция Е-227")
+    
+  elif message.text == "230":
+    bot.reply_to(message, "Күмәнді \nБифенил (дифенил) Е-230")
+    
+  elif message.text == "231":
+    bot.reply_to(message, "Күмәнді \nОртофенилфенол Е-231")
+    
+  elif message.text == "232":
+    bot.reply_to(message, "Күмәнді \nОртофенилфенол натри тұзы Е-232")
+    
+  elif message.text == "233":
+    bot.reply_to(message, "Күмәнді \nТиабендазол Е-233")
+    
+  elif message.text == "270":
+    bot.reply_to(message, "Күмәнді \nСүт қышқылы Е-270")
+    
+  elif message.text == "282":
+    bot.reply_to(message, "Күмәнді \nПропионат кальциі Е-282")
+    
+  elif message.text == "302":
+    bot.reply_to(message, "Күмәнді \nАскорбат кальциі Е-302")
+    
+  elif message.text == "304":
+    bot.reply_to(message, "Күмәнді \nАскорбилпальмитат Е-304")
+    
+  elif message.text == "306":
+    bot.reply_to(message, "Күмәнді \nТокоферолдың табиғи концентраты Е-306")
+    
+  elif message.text == "307":
+    bot.reply_to(message, "Күмәнді \nСинтетикалық альфатокоферол Е-307")
+    
+  elif message.text == "308":
+    bot.reply_to(message, "Күмәнді \nСинтетикалық гамматокоферол Е-308")
+    
+  elif message.text == "309":
+    bot.reply_to(message, "Күмәнді \nСинтетикалық гамматокоферол Е-309")
+    
+  elif message.text == "311":
+    bot.reply_to(message, "Күмәнді \nОктилгаллат Е-311")
+    
+  elif message.text == "312":
+    bot.reply_to(message, "Күмәнді \nДодецилгаллат Е-312")
+    
+  elif message.text == "320":
+    bot.reply_to(message, "Күмәнді \nБутилгидроксианизол Е-320")
+    
+  elif message.text == "321":
+    bot.reply_to(message, "Күмәнді \nБутилгидрокситолуол Е-321")
+    
+  elif message.text == "322":
+    bot.reply_to(message, "Күмәнді \nЛецитин Е-322")
+    
+  elif message.text == "325":
+    bot.reply_to(message, "Күмәнді \nЛактат натрия Е-325")
+    
+  elif message.text == "326":
+    bot.reply_to(message, "Күмәнді \nЛактат калия Е-326")
+    
+  elif message.text == "327":
+    bot.reply_to(message, "Күмәнді \nЛактат кальция Е-327")
+    
+  elif message.text == "333":
+    bot.reply_to(message, "Күмәнді \nКальций цитраты Е-333")
+    
+  elif message.text == "334":
+    bot.reply_to(message, "Күмәнді \nВино қышқылы Е-334")
+    
+  elif message.text == "335":
+    bot.reply_to(message, "Күмәнді \nНатрий тартраты Е-335")
+    
+  elif message.text == "336":
+    bot.reply_to(message, "Күмәнді \nКалий тартраты Е-336")
+    
+  elif message.text == "337":
+    bot.reply_to(message, "Күмәнді \nКалий-натрий тартраты Е-337")
+    
+  elif message.text == "341":
+    bot.reply_to(message, "Күмәнді \nОртофосфат кальцийі Е-341")
+    
+  elif message.text == "422":
+    bot.reply_to(message, "Күмәнді \nГлицерин Е-422")
+    
+  elif message.text == "470":
+    bot.reply_to(message, "Күмәнді \nНатри, калий и кальций май қышқылының тұздары Е-470")
+    
+  elif message.text == "471":
+    bot.reply_to(message, "Күмәнді \nМоно- и диглицерид май қышқылдары Е-471")
+    
+  elif message.text == "472":
+    bot.reply_to(message, "Күмәнді \nМоно- и диглицерид май қышқылдарының түрлі эфирлері Е-472")
+    
+  elif message.text == "473":
+    bot.reply_to(message, "Күмәнді \nСахароза және май қышқылының эфирлері Е-473")
+    
+  elif message.text == "474":
+    bot.reply_to(message, "Күмәнді \nҚантты глицеридтер Е-474")
+    
+  elif message.text == "475":
+    bot.reply_to(message, "Күмәнді \nПолиглицерид және май қышқылдарының эфирлері Е-475")
+    
+  elif message.text == "476":
+    bot.reply_to(message, "Күмәнді \nПолиглицериннің күрделі эфирлері және эфирленген рицинол қышқылдары Е-476")
+    
+  elif message.text == "477":
+    bot.reply_to(message, "Күмәнді \nПропиленгликол және май қышқылының эфирлері Е-477")
+    
+  elif message.text == "478":
+    bot.reply_to(message, "Күмәнді \nЭфиры лактилированных жирных кислот, глицерина и пропиленгликоля Е-478")
+    
+  elif message.text == "481":
+    bot.reply_to(message, "Күмәнді \nНатри лактитаты Е-481")
+    
+  elif message.text == "482":
+    bot.reply_to(message, "Күмәнді \nКальци лактитаты Е-482")
+    
+  elif message.text == "483":
+    bot.reply_to(message, "Күмәнді \nСтеарилтартрат Е-483")
+    
+  elif message.text == "491":
+    bot.reply_to(message, "Күмәнді \nСорбитан моностеарат Е-491")
+    
+  elif message.text == "492":
+    bot.reply_to(message, "Күмәнді \nСорбитан тристеарат Е-492")
+    
+  elif message.text == "493":
+    bot.reply_to(message, "Күмәнді \nСорбитан монолаурат Е-493")
+    
+  elif message.text == "494":
+    bot.reply_to(message, "Күмәнді \nСорбитан моноолеат Е-494")
+    
+  elif message.text == "542":
+    bot.reply_to(message, "Күмәнді \nФосфат натрия Е-542")
+    
+  elif message.text == "544":
+    bot.reply_to(message, "Күмәнді \nПолифосфат кальция Е-544")
+    
+  elif message.text == "556":
+    bot.reply_to(message, "Күмәнді \nАлюмосиликат кальция Е-556")
+    
+  elif message.text == "620":
+    bot.reply_to(message, "Күмәнді \nL-глутаминовая кислота Е-620")
+    
+  elif message.text == "621":
+    bot.reply_to(message, "Күмәнді \nГлутаминат натрия однозамещенный Е-621")
+    
+  elif message.text == "622":
+    bot.reply_to(message, "Күмәнді \nГлутаминат калия однозамещенный Е-622")
+    
+  elif message.text == "623":
+    bot.reply_to(message, "Күмәнді \nГлутаминат кальция однозамещенный Е-623")
+    
+  elif message.text == "627":
+    bot.reply_to(message, "Күмәнді \nГуанилат натрия Е-627")
+    
+  elif message.text == "631":
+    bot.reply_to(message, "Күмәнді \nИнозинат натрия двузамещенный Е-631")
+    
+  elif message.text == "635":
+    bot.reply_to(message, "Күмәнді \nРибонуклеотид натрия двузамещенный Е-635")
+    
+  elif message.text == "904":
+    bot.reply_to(message, "Күмәнді \nШеллак Е-904")
+    
   else:
-    bot.reply_to(message, "Сізді түсінбедім! \nӨтініш \"171\", \"160b\" үлгісінде жазыңыз!")
+    bot.reply_to(message, "Сізді түсінбедім! \nӨтініш \"171\", \"160b\" үлгісінде жазыңыз!\nНемесе бұл қоспа туралы ақпарат жоқ")
 
 bot.polling()
